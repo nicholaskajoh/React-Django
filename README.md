@@ -9,3 +9,6 @@ Simple setup for a React-Django web app. See tutorial here: https://medium.com/@
 - Install React dependencies with `npm install`. 
 - Run React app with `npm start`.
 - Build React app using `npm run build`.
+
+## Deploy
+Read my tutorial on deploying this app to Heroku here: https://medium.com/@nicholaskajoh/deploy-your-react-django-app-on-heroku-335af9dab8a3.
