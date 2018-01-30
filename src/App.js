@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
+import reactLogo from './logo-react.svg';
+import djangoLogo from './logo-django.svg';
 import './App.css';
 
 class App extends Component {
@@ -7,11 +8,12 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <h1 className="App-title">Welcome to React</h1>
+          <img src={reactLogo} className="App-logo" alt="React logo" />
+          <img src={djangoLogo} className="App-logo" alt="Django logo" />
+          <h1 className="App-title">Welcome to the React-Django app</h1>
         </header>
         <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
+          I'm a blank canvas waiting for a coder's touch!
         </p>
       </div>
     );
