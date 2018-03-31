@@ -6,6 +6,7 @@
 
 *.pyc
 *.sqlite3
+package-lock.json
 
 .DS_Store
 .env
