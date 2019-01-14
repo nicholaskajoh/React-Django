@@ -11,4 +11,4 @@ Simple setup for a React-Django web app. See tutorial here: https://alphacoder.x
 - Build React app using `npm run build`.
 
 ## Deploy
-Read my tutorial on deploying this app to Heroku here: https://medium.com/@nicholaskajoh/deploy-your-react-django-app-on-heroku-335af9dab8a3.
+Read my tutorial on deploying this app to Heroku here: https://alphacoder.xyz/deploy-react-django-app-on-heroku.
