@@ -4,7 +4,7 @@ Simple setup for a React-Django web app. See tutorial here: https://alphacoder.x
 ## Setup
 - Download/clone repo.
 - Create and activate a virtual environment.
-- Install Django with `pip install django`.
+- Install Django and other dependencies with `pip install -r requirements.txt`.
 - Run Django app using `python manage.py runserver`.
 - Install React dependencies with `npm install`. 
 - Run React app with `npm start`.
